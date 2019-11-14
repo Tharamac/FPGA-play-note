@@ -1,0 +1,16 @@
+
+
+NET "sw[2]" LOC = P23;
+NET "sw[1]" LOC = P24;
+NET "sw[0]" LOC = P25;
+NET "clk" LOC = P127;
+
+
+NET "speaker" LOC = P52;
+
+# PlanAhead Generated physical constraints 
+
+NET "status" LOC = P36;
+NET "led[2]" LOC = P47;
+NET "led[1]" LOC = P50;
+NET "led[0]" LOC = P51;
